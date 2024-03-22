@@ -42,11 +42,6 @@ bla bla bla
 4. [Something]()
 5. [Something]()
 ### Dyson Finance
-1. [Vault Contract]()
-2. [SynToken]()
-3. [Something]()
-4. [Something]()
-5. [Something]()
 ### Zircuit
 1. [Vault Contract]()
 2. [SynToken]()
