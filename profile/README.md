@@ -2,7 +2,7 @@
 
 ❎⛓️Crossing the boundaries!❎⛓️
 ## 🤔What is Crossyield🤔?
-Crossyield is a lending and borrowing DeFi protocol that utilizes storage proofs and account abstraction to perform gas-less cross-chain collateralization of assets for self-repaying loans.
+Crossyield is a DeFi protocol that utilizes Circle's CCTP and Account Abstraction to perform gas-less, cross-chain collateralization of assets for self-repaying loans.
 ## Product Description
 ### ‼️Problem Statement‼️
 This innovative project aims to tackle a few major problems that are being faced in the Defi space,
