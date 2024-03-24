@@ -13,7 +13,7 @@ CrossYield aims to allow users to have the flexibility to borrow/ lend loans acr
 ### 🪄 Unique Value Proposition
 What make Crosyield unique is the seamless cross-chain collateralization, enabling users to exchange assets across different blockchains within the platform, optimizing borrowing strategies and accessing funds effortlessly.
 ## 🔨How it's made?
-1. Account Abstraction -
+1. Account Abstraction - Account abstraction within blockchain systems allows for assets to be exclusively held by smart contracts rather than being controlled by externally-owned accounts (EOAs)
 2. Circle's Cross-Chain Transfer Protocol (CCTP) - Cross-Chain Transfer Protocol (CCTP) enables USDC to flow securely between blockchains
 ## The Stack
 1. Frontend - Next.JS, TailwindCSS, Progressive Web App (PWA)
