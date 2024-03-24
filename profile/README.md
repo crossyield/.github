@@ -44,7 +44,7 @@ What make Crosyield unique is the seamless cross-chain collateralization, enabl
 1. [Vault Contract]()
 2. [SynToken]()
 3. [Treasure]()
-### Thundercore ( Not done yet)
-1. [Vault Contract]()
-2. [SynToken]()
-3. [Treasure]()
+### Thundercore
+1. [Vault Contract](https://explorer-testnet.thundercore.com/address/0x7de7d7165b33d4292840daf7cb2629459e796cb5)
+2. [SynToken](https://explorer-testnet.thundercore.com/address/0x2b7eeaf01d706b466b8f1af9c4f9d56ffbf00f10)
+3. [Treasure](https://explorer-testnet.thundercore.com/address/0x5922F957C2DF08FE3dD5f6Dd8f2f7FE14fF9c43f/contracts)
