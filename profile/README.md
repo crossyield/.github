@@ -1,7 +1,7 @@
 # [CrossYield](https://crossyield.vercel.app) - Crossing the Boundaries of DeFi  
 
 ## 🤔 What is Crossyield?
-Crossyield is a DeFi protocol that utilizes Circle's CCTP and Account Abstraction to perform gas-less, cross-chain collateralization of assets for self-repaying loans.
+Crossyield facilitates cross-chain collateralization of assets for self-repaying loans, leveraging Circle's CCTP and Account Abstraction to execute transactions without the need for gas fees.
 ## Product Description
 ### ‼️ Problem Statement
 This innovative project aims to tackle a few major problems that are being faced in the Defi space,
