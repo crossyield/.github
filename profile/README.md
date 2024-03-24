@@ -36,12 +36,11 @@ What make Crosyield unique is the seamless cross-chain collateralization, enabl
 1. [Vault Contract](https://sepolia.scrollscan.com/address/0xa419a7a700de519c95cf012767f78f90e115a8ec)
 2. [SynToken](https://sepolia.scrollscan.com/address/0x460c44641673b2fb1d7d769f01b309eaa5eac533)
 3. [Treasure](https://sepolia.scrollscan.com/address/0x1bada0cc942cffbc5303ff5986395b04aaeff9ba)
-### Dyson Finance
 ### Zircuit
 1. [Vault Contract](https://explorer.zircuit.com/address/0x252615621C5743DEeA80A82Ca2D8B691a657f459)
 2. [SynToken](https://explorer.zircuit.com/address/0x0B2AF11D25de9eEEc4D9e3C531AD87b85005C087)
 3. [Treasure](https://explorer.zircuit.com/address/0xD801B3b54eA2E0bFcc4dcBff9F8a7de01d4D9a51)
-### Polygon
+### Polygon (not done yet)
 1. [Vault Contract]()
 2. [SynToken]()
 3. [Treasure]()
